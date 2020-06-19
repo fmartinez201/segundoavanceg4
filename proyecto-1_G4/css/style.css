@@ -1,0 +1,96 @@
+body{
+	font-family: "Helvetica Neue";
+	font-size: 20px;
+	color:#000;
+}
+
+h1{
+	font-size: 30px;
+	color: #004B6E;
+	text-align: center;
+	font-family: "Helvetica Neue";
+	font-weight: 800;
+	margin: 0px 0px 10px 0px;
+	
+}
+
+h3{
+	font-size: 30px;
+	color: #004B6E;
+	text-align: center;
+	font-family: "Helvetica Neue";
+	font-weight: 800;
+	margin: 0px;
+	margin-top: 30px;
+}
+
+h2{
+	font-size: 12px;
+	color:#717175;
+	border: 1px solid #A1A1A1;
+	padding: 10px;
+	width: auto;
+}
+
+h5{
+	font-size: 12px;
+	color:#717175;
+	border: 1px solid #A1A1A1;
+	padding: 10px 10px 199px 10px;
+	width: auto;
+}
+
+h4{
+	font-size: 12px;
+	text-align: center;
+}
+
+p1{
+	font-size: 20px;
+	font-family:  "Helvetica Neue";
+	color:#000;
+	pading: 0px 50px;
+	margin-top: 50px;
+}
+
+#bienvenida{
+	background-color: #f6f6f6;
+	padding: 30px 0px;
+}
+
+#contactos{
+	padding-bottom: 50px;
+}
+
+header{
+	padding: 15px 0;
+}
+
+header img{
+	 width:auto;
+}
+
+footer{
+	background-color:#004B6E;
+	color: #fff;
+	padding: 20px 
+}
+
+#Bienvenida{
+	background-color: #f6f6f6;
+	padding: 50px 0;
+}
+
+#Contactos{
+	padding: 25px;
+}
+
+.titulo{
+	font-size: 30px;
+	color: #004B6E;
+	text-align: center;
+	font-family: "Helvetica Neue";
+	font-weight: 800;
+	margin: 10px;
+	margin-top: 30px;
+}
